@@ -5,6 +5,6 @@ In this project we will try to extract as much information as possible from the 
 
 The notebook project is [here](src/project.ipynb).
 
-# Technologies used 🛠️
+## Technologies used 🛠️
 - [Python](https://www.python.org/)
 - [Jupyter Notebook](https://jupyter.org/)
